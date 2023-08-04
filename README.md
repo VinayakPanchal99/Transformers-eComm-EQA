@@ -16,5 +16,10 @@ TRAINING: Extract the "Cell phones and Accesories" stored in each trainsfomers f
 TESTING: If you want to use the model we created then directly run the scripts. If you fine-tuned your model then do upload your model in Hugging face and replace hugging face login, tokenizer and model with your model.
 
 ## PROJECT PICS
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/dataset.png)
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/answer_length.png)
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/EQA.png)
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/EXACTMATCH.png)
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/Results_table.png)
+![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/Results_table_2.png)
 
-![](project pics/EQA.png)
