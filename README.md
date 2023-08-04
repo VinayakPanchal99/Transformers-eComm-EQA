@@ -8,6 +8,7 @@ RESEARCH PROJECT: Unleashing the Power of Transformers: Extractive Question Answ
 + Transformers
 + Wandb and Hugging face account
 + Download any metadata from Amazon Review Dataset 2018 if you want to test the dataset preparation scripts [Amazon Review Data 2018](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)
++ Run it on GPU for a smoother experience (recommended: Kaggle's GPU)
 
 ## Steps to Run
 
