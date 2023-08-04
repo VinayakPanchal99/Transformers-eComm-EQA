@@ -17,3 +17,4 @@ TESTING: If you want to use the model we created then directly run the scripts. 
 
 ## PROJECT PICS
 
+![](project pics/EQA.png)
