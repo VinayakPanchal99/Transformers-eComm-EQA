@@ -12,9 +12,9 @@ RESEARCH PROJECT: Unleashing the Power of Transformers: Extractive Question Answ
 
 ## Steps to Run
 
-TRAINING: Extract the "Cell phones and Accesories" stored in each trainsfomers folder, then run the train pynb script to fine-tune the models.(CUSTOM DATASET: [Cell_Phones_and_Accessories_final.zip])
+TRAINING: Extract the "Cell phones and Accessories" stored in each transformer's folder, then run the train pynb script to fine-tune the models. (CUSTOM DATASET: [Cell_Phones_and_Accessories_final.zip])
 
-TESTING: If you want to use the model we created then directly run the scripts. If you fine-tuned your model then do upload your model in Hugging face and replace hugging face login, tokenizer and model with your model.
+TESTING: If you want to use the model we created then directly run the scripts. If you fine-tuned your model then upload your model in Hugging Face and replace Hugging Face login, tokenizer and model with your model.
 
 ## PROJECT PICS
 ![](https://github.com/VinayakPanchal99/Transformers-eComm-EQA/blob/main/project%20pics/dataset.png)
